@@ -3,7 +3,7 @@ import java.awt.event.*;
 import javax.swing.*;
 
 /**
- * Created by Алексей on 29.06.2016.
+ * Created by Oleg on 29.06.2016.
  */
 
 
